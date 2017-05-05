@@ -1,0 +1,22 @@
+{
+  "name": "jstest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skmail/test.git"
+  },
+  "author": "Solaiman Kmail <psokmail@gmail.com> (http://codeiin.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skmail/test/issues"
+  },
+  "homepage": "https://github.com/skmail/test#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
